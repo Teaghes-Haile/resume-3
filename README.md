@@ -1,2 +1,3 @@
 # resume-3
-My project
+My project's strategy
+
